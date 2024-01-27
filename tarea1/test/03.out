@@ -1,0 +1,12 @@
+1>2>Cantidad hospitales: 2
+Cupos hospitales: 1 1 
+Cantidad estudiantes: 3
+Preferencias hospitales
+Preferencias hospital h0: 0 1 2 
+Preferencias hospital h1: 0 1 2 
+Preferencias estudiantes
+Preferencias estudiante e0: 1 0 
+Preferencias estudiante e1: 0 1 
+Preferencias estudiante e2: 1 0 
+3>4>(0, 1) (1, 0) (2, libre) 
+5>Fin.
